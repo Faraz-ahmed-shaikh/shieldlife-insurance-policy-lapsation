@@ -77,7 +77,7 @@ Covers Acquisition Cost Spent by Channel, Unrealised Premium by Product, Channel
 
 ```
 ├── dashboards/         # Tableau dashboard screenshots & workbook
-├── data/               # Data note (raw data not included)
+├── data/               # Data [Original and for BI]
 ├── notebooks/          # 5 Databricks notebooks
 │   ├── 01_data_exploration
 │   ├── 02_data_cleaning
@@ -131,7 +131,7 @@ Documentation
 
 ## 📄 Report
 
-Full executive summary available in [`reports/`](reports/shieldlife_executive_summary.pdf)
+Full executive summary available in [`reports/`](reports/ShieldLife_Executive_Summary.pdf)
 
 ---
 
