@@ -1,4 +1,3 @@
-Bro is this github readme good ?: 
 # 🛡️ ShieldLife Insurance — Policy Lapse & Retention Analysis
 
 An end-to-end Insurance Analytics case study built using PySpark, Spark SQL, Tableau, and Databricks to investigate policy lapsation, customer retention, and financial leakage for a fictional Indian insurance company — ShieldLife Insurance.
